@@ -1,6 +1,4 @@
 ## Goals
-* Gain hands-on experience with parallel computation and synchronization primitives in a single machine shared-memory environment.
-## Goals
 *  For MapReduce, compare Combiners to the in-mapper combining design pattern. Use keys, comparators, and Partitioner to implement secondary sort. Then explore how this would be implemented in Spark Scala.
 
 
