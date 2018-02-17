@@ -1,5 +1,6 @@
 # Parellel Data Processing with MapReduce
 
+This repository contains the source codes & scripts of my Master's level course - CS6240 Parallel Data Processing in Map-Reduce course at College of Computer & Information Science, Northeastern University, Boston MA.
 Hadoop MapReduce is a software framework for easily writing applications which process vast amounts of data (multi-terabyte data-sets) in-parallel on large clusters (thousands of nodes) of commodity hardware in a reliable, fault-tolerant manner.
 
 ## Getting Started
