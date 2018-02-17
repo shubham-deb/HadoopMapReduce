@@ -19,11 +19,11 @@
 	* …
 	* StationIdn, MeanMinTempn, MeanMinTempn
 
-	* NoCombiner: This program has a Mapper and a Reducer class with no custom setup or cleanup methods, and no Combiner or custom Partitioner. 
+  * NoCombiner: This program has a Mapper and a Reducer class with no custom setup or cleanup methods, and no Combiner or custom Partitioner. 
 
-	* Combiner: This version of the program uses a Combiner.
+  * Combiner: This version of the program uses a Combiner.
 
-	* InMapperCombiner: This version of the program uses in-mapper combining to reduce data traffic from Mappers to Reducers.
+  * InMapperCombiner: This version of the program uses in-mapper combining to reduce data traffic from Mappers to Reducers.
 
 * Second, using 10 years of input data (1880.csv to 1889.csv), I have to calculate mean minimum temperature and mean maximum temperature, by station, by year using another design pattern: 
 
