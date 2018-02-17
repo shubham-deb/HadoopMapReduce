@@ -2,7 +2,7 @@
 *  For MapReduce, compare Combiners to the in-mapper combining design pattern. Use keys, comparators, and Partitioner to implement secondary sort. Then explore how this would be implemented in Spark Scala.
 
 
-# Assignment 1 - Multithreading 
+# Assignment 2 - In-Mapper Combiner 
 
 * In this assignment, I am analysing performance of the following design patterns on weather dataset: * No-Combiner Approach/Simple Map-Reduce * Combiner Design pattern * In-Mapper Combining Design Pattern * Secondary Sort / Value-to-key conversion design pattern
 
