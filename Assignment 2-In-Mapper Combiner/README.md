@@ -4,7 +4,11 @@
 
 # Assignment 2 - In-Mapper Combiner 
 
-* In this assignment, I am analysing performance of the following design patterns on weather dataset: * No-Combiner Approach/Simple Map-Reduce * Combiner Design pattern * In-Mapper Combining Design Pattern * Secondary Sort / Value-to-key conversion design pattern
+* In this assignment, I am analysing performance of the following design patterns on weather dataset: 
+	* No-Combiner Approach/Simple Map-Reduce 
+	* Combiner Design pattern 
+	* In-Mapper Combining Design Pattern 
+	* Secondary Sort / Value-to-key conversion design pattern
 
 * This data consists of weather readings from multiple weather stations. The format and description of each fields is given in the following link ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/by_year/readme.txt
 
